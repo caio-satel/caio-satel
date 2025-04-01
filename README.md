@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiosatel/)
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:caio_satel@hotmail.com)
 
-<h5>Sou formado em Análise e Desenvolvimento de Sistemas e meu objetivo atual é me qualificar no desenvolvimento FrontEnd e UI/UX Design, com foco em me tornar um desenvolvedor FullStack 😄</h5>
+<h5>Sou formado em Análise e Desenvolvimento de Sistemas e meu objetivo atual é me qualificar no desenvolvimento FrontEnd e UI/UX Design, com foco em me tornar um desenvolvedor Frontend 😄</h5>
 
 ![Caio Satel GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-satel&show_icons=true&theme=radical)
 
